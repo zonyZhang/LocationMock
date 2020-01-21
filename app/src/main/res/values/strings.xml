@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LocationMock</string>
+    <string name="main_text_start_shareing">开启实时共享中...</string>
+    <string name="map_activity_distance">&#160;&#160;%1$d</string>
+    <string name="layout_search_mock">输入需要模拟的地点</string>
+    <string name="activity_map_mock_start">ON</string>
+    <string name="activity_map_mock_stop">OFF</string>
+    <string name="activity_map_develop_setting">打开开发者选项</string>
+    <string name="no_result">对不起，没有搜索到相关数据！</string>
+    <string name="setting_mock_app">请打开开发者模式，并将此应用设置为模拟定位应用</string>
+    <string name="mock_location_select">请先在地图上选择目标地点</string>
+    <string name="mock_location_start">模拟定位开始。。。</string>
+    <string name="mock_location_start_success">模拟定位成功。。。</string>
+    <string name="mock_location_stop">模拟定位结束。。。</string>
+    <string name="gps_open">Are you sure open GPS service ?</string>
+</resources>
